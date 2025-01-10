@@ -4,6 +4,8 @@ Welcome to my final Master's Degree project repository in collaboration with Nat
 
 Please note: The data shared are fictitious and do not represent real customer information.
 
+This repository includes the original Jupyter Notebook in Spanish and a translated PDF in English.
+
 The repository includes detailed code, preprocessed data, original data provided by Naturgy, and interactive Tableau dashboards to enhance data visualization and exploration.
 
 📂 Contents
